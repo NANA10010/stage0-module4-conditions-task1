@@ -6,7 +6,6 @@ public class IntegerComparison {
                 int y = 50;
                 if (x == y) {
                         System.out.println("Hello, World!");
-                }
-        }
+                    }
+             }
     }
-}
